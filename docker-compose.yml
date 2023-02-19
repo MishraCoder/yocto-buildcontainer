@@ -1,3 +1,4 @@
+version: "2"
 services:
   dev-env:
     # Use 'image' and 'build' options if changes in image are necessary or the
