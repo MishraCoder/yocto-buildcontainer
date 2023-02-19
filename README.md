@@ -23,7 +23,7 @@ To start the development container use the following commands.
 
 * Clone repository
     ```
-    git clone https://github.com/embeddedlinuxacademy/yocto-buildcontainer
+    git clone https://github.com/MishraCoder/yocto-buildcontainer.git
     ```
 
 * Change to cloned folder
